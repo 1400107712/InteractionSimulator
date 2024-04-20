@@ -2,7 +2,7 @@ torch
 pandas
 matplotlib
 gym
-sklearn
+scikit-learn
 pyproj
 shapely
 opencv-python
